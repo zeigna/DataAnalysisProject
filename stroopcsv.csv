@@ -1,0 +1,138 @@
+     ,Participant #,Gender,Age,Ethnicity,Education,Employment,MaritalStatus,Handedness,Sight,Fluency,Language,CurrentStress,ReadingAbility,Posture,blackincorrect,blackComplete,symbolsIncorrect,symbolsComplete,congruentIncorrect,congruentComplete,incongruentIncorrect,incongruentComplete,EnglishProficiency,Non-EnglishProficiency,Bilingual Confidence,games,MusicianTime,MusiciProficiency,Eat,caffeine,sleephours,PSStotal,Lorena,Rafael,Evelyn
+Amber,1,M,27,AA/Black,Some College,Full Time,Single,Right,Normal,Monolingual,English,Moderate,Above,Sitting,2,157,2,99,2,156,4,70,,,,20,,,yes,48 hrs ago,6,15,,,
+Amber,2,F,55,AA/Black,Graduate,Full Time,Married,Right,Normal,Bilingual,English,Moderate,Above,Standing,0,197,0,180,0,200,1,185,high,high,very confident,,,,yes,last week,8,20,,,
+Amber,3,M,52,AA/Black,Graduate,Full Time,Married,Right,Normal,Multilingual,Other,Moderate,Average,Standing,0,80,2,96,0,108,5,80,medium,high,very confident,,,,yes,2hrs ago,5,16,,,
+Amber,4,F,20,AA/Black,Some College,Student,Single,Right,Normal,Bilingual,English,Low,Above,Sitting,0,150,2,150,0,190,5,176,high,low,unsure,,,,yes,1hr ago,8,9,,,
+Amber,5,F,30,AA/Black,Bachelors,Full Time,Single,Right,Myopia,Bilingual,English,Moderate,Above,Sitting,0,200,0,176,0,193,4,189,high,medium,somewhat confident,,,,no,48 hrs,8,22,,,
+Catalina ,1,F,19,Hispanic,Some College,Student,Single,Right,Normal,Bilingual,English,Moderate,Average,Sitting,1,122,0,91,0,145,1,65,high,high,very confident,,,,yes,1 hr ago,7,,,,
+Catalina ,2,F,35,Hispanic,Some College,Full Time,Divorced,Right,Normal,Bilingual,Spanish,Low,Average,Sitting,1,110,2,75,1,135,3,57,medium,medium,somewhat confident,,,,yes,5 hrs ago,9,10,,,
+Catalina ,3,M,67,Hispanic,High School,Full Time,Divorced,Right,Hyperopia,Multilingual,Spanish,Low,Above,Sitting,2,141,4,93,1,147,1,66,medium,medium,somewhat confident,,,,yes,8 hrs ago,9,8,,,
+Catalina ,4,F,21,AA/Black,Higher Education,Student,Single,Right,Myopia,Monolingual,English,High,Average,Standing,0,118,3,75,0,129,0,65,high,,,2,,,yes ,2 hrs ago,7,30,,,
+Catalina ,5,M,20,White,Some College,Student,Single,Right,Normal,Monolingual,English,Moderate,Average,Standing,0,142,0,163,0,143,2,88,high,,,8,,,yes,4 hrs ago,7,16,,,
+Christian Perez,1,F,21,AA/Black,Some College,Student,Single,Right,Myopia,Monolingual,English,Low,Above,Sitting,0,118,0,101,1,140,0,91,high,,,2,16 yrs,Intermediate,yes,2 days ago,4,,,,
+Christian Perez,2,M,18,Hispanic,Some College,Unemployed,Single,Right,Myopia,Multilingual,English,Low,Above,Sitting,4,133,2,100,0,143,3,78,high,medium,somewhat confident,21,2 yrs,Intermediate,yes,1 day ago,7,,,,
+Christian Perez,3,M,35,Hispanic,High School,Full Time,Married,Right,Normal,Bilingual,Spanish,High,Below,Sitting,2,122,4,76,0,145,7,46,medium,medium,somewhat not confident,0,,,yes,< 1 day,5,,,,
+Christian Perez,4,F,21,AA/Black,Some College,Unemployed,Single,Right,Normal,Bilingual,English,Moderate,Average,Sitting,0,100,1,94,0,102,1,75,high,medium,somewhat confident,72,,,yes,< 1 day,5,,,,
+Christian Perez,5,F,22,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,3,148,4,100,0,153,1,66,high,medium,very confident,2,,,no,1 day ago,6,,,,
+Eliana,1,M,23,Hispanic,Some College,Part Time,Single,Ambidextrous,Myopia,Multilingual,English,Low,Above,Sitting,1,161,2,114,1,170,2,79,high,high,very confident,6,18 yrs,Expert,no,5 days ago,6,,,,
+Eliana,2,F,31,Hispanic,Graduate,Full Time,Married,Left,Myopia,Bilingual,English,Moderate,Above,Sitting,3,129,2,96,2,155,2,60,high,high,very confident,0,4 yrs,Intermediate,yes,4 hrs ago,9,,,,
+Eliana,3,F,50,Hispanic,Bachelors,Full Time,Married,Right,Myopia,Bilingual,Spanish,Low,Average,Standing,1,128,2,70,0,140,1,40,high,high,very confident,0,0 yrs,Intermediate,yes,10 weeks ago,8,,,,
+Eliana,4,M,36,Hispanic,Higher Education,Full Time,Married,Right,Normal,Monolingual,English,Low,Average,Sitting,0,120,3,80,2,122,2,55,high,,,8,,,yes,8 hrs ago,7,,,,
+Eliana,5,M,50,Hispanic,Less than HS,Full Time,Married,Right,Normal,Bilingual,Spanish,Moderate,Below,Standing,3,98,3,69,2,102,5,25,medium,high,very confident,0,0 yrs,Beginner,yes,3 days ago,6,,,,
+Dorcas ,5,F,19,AA/Black,Some College,Student,Single,Right,Normal,Monolingual,English,Moderate,Above,Sitting,1,105,3,90,3,100,4,95,high,low,unsure,0,0 yrs,Beginner,yes,3 hrs ago,4,,,,
+Dorcas ,1,F,20,AA/Black,Some College,Student,Single,Right,Hyperopia,Bilingual,English,Moderate,Above,Sitting,0,110,0,100,1,105,1,97,high,medium,somewhat confident,0,,,yes,1 hr ago,7,,,,
+Dorcas ,2,M,20,AA/Black,Some College,Student,Single,Right,Normal,Monolingual,English,High,Average,Sitting,0,110,0,100,1,105,0,100,high,low,unsure,7,,,no,> 1 day ago,5,,,,
+Dorcas ,3,M,18,AA/Black,Some College,Student,Single,Left,Normal,Monolingual,English,Moderate,Average,Sitting,1,106,2,100,0,99,1,97,high,medium,unsure,24,,,yes,2 hr ago,6,,,,
+Dorcas ,4,F,21,AA/Black,Some College,Student,Single,Right,Normal,Bilingual,Other,Moderate,Above,Sitting,0,105,3,105,2,100,2,100,high,medium,somewhat confident,0,,,yes,30 mins ago,4,,,,
+Erika,1,M,21,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Above,Sitting,0,155,0,120,0,175,3,87,high,medium,very confident,24,,,No,5 hours ago,5,,,,
+Erika,2,F,21,Hispanic,Bachelors,Full Time,Single,Ambidextrous,Myopia,Bilingual,Spanish,High,Above,Sitting,1,115,0,80,0,98,1,46,high,high,very confident,0,,,Yes,3 weeks ago,7,,,,
+Erika,3,F,18,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,Spanish,Moderate,Average,Sitting,0,106,2,57,0,103,0,46,medium,,somewhat confident,5,,,No,1 day ago,9,,,,
+Erika,4,F,26,AA/Black,Bachelors,Part Time,Single,Right,Normal,Bilingual,English,High,Above,Sitting,1,148,0,99,0,165,1,54,high,medium,somewhat confident,10,,,No,8 weeks ago,7.5,,,,
+Nitay,1,M,19,White,Some College,Student,Single,Right,Hyperopia,Multilingual,Italian,Low,Average,Sitting,2,148,0,68,0,162,0,75,medium,high,somewhat confident,0,,,yes,<0hr,7,,,,
+Nitay,2,M,24,Hispanic,Bachelors,Unemployed,Single,Right,Hyperopia,Monolingual,Spanish,High,Average,Sitting,0,113,0,85,2,143,4,61,low,high,not very confident,2,,,no,<36hr,8,,,,
+Nitay,3,M,45,Hispanic,High School,Unemployed,Married,Right,Normal,Bilingual,Spanish,Low,Above,Sitting,0,100,3,66,0,100,3,46,medium,high,not very confident,0,,,yes,<12hr,8,,,,
+Nitay,4,M,71,AA/Black,Some College,Full Time,Single,Right,Myopia,Multilingual,French,Low,Average,Sitting,0,104,1,61,0,110,0,34,medium,high,somewhat confident,0,,,no,<12hr,4,,,,
+Nitay,5,M,44,Hispanic,High School,Full Time,Married,Right,Normal,Monolingual,Spanish,Low,Above,Sitting,0,65,0,76,0,101,4,64,low,high,not very confident,1,,,yes,<12hr,5,,,,
+Yashley,1,M,21,Hispanic,Some College,Student,Single,Right,Myopia,Multilingual,English,High,Above,Sitting,1,108,1,83,1,123,1,67,high,medium,very confident,0,,,no,6 hrs ago,6,,,,
+Yashley,2,F,28,Hispanic,Bachelors,Full Time,Single,Right,Normal,Bilingual,Spanish,Moderate,Average,Sitting,2,111,1,88,0,121,0,70,high,high,very confident,0,,,yes,2hrs ago,9,,,,
+Yashley,3,M,24,AA/Black,Bachelors,Full Time,Single,Ambidextrous,Normal,Multilingual,English,Low,Above,Sitting,0,105,1,85,2,119,3,68,high,medium,somewhat confident,5,,,yes,,8,,,,
+Yashley,4,F,22,Hispanic,Bachelors,Part Time,Single,Left,Normal,Bilingual,Spanish,Moderate,Above,Sitting,0,130,0,90,1,134,5,115,high,high,very confident,0,,,yes,5hrs ago ,9,,,,
+Yashley,5,M,20,AA/Black,Some College,Full Time,Single,Ambidextrous,Normal,Multilingual,English,Low,Above,Sitting,0,132,4,76,2,147,4,47,high,medium,somewhat confident,12,,,yes,,8,,,,
+Elijah,1,M,20,AA/Black,Some College,Student,Single,Right,Myopia,Monolingual,English,Low,Above,Sitting,0,102,2,89,0,109,1,74,,,,4,3 yrs,Intermediate,yes,<1 hr ago,7,,,,
+Elijah,2,F,24,AA/Black,Some College,Student,Single,Right,Myopia,Bilingual,English,High,Above,Sitting,0,91,2,59,1,100,3,65,high,medium,somewhat confident,,,,yes,3 hrs ago,8,,,,
+Elijah,3,O,24,NH/OPI,Bachelors,Student,Single,Right,Myopia,Monolingual,English,Low,Above,Sitting,0,126,1,95,0,136,2,60,,,,12,8 yrs,Intermediate,yes,<1 hr ago,6,,,,
+Elijah,4,M,20,ME/NA,Some College,Student,Single,Right,Normal,Bilingual,English,High,Above,Standing,0,130,0,92,0,135,1,85,high,medium,very confident,15,,,no,2 days ago,7,,,,
+Elijah,5,F,19,AA/Black,Some College,Student,Single,Right,Normal,Bilingual,English,High,Above,Standing,0,153,0,93,0,161,2,76,high,low,unsure,5,6 yrs,Intermediate,Yes,<1 hr ago,7,,,,
+Miranda,1,F,40,AA/Black,Bachelors,Full Time,Married,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,0,137,1,91,0,114,7,66,medium,medium,somewhat confident,1,,,yes,<1 hour ago,5,18,,,
+Miranda,2,M,45,Hispanic,High School,Full Time,Single,Left,Myopia,Bilingual,English,Low,Average,Sitting,0,125,5,82,1,136,10,49,high,medium,somewhat confident,0,,,yes,6 hours ago,4,20,,,
+Miranda,3,M,18,Hispanic,High School,Student,Single,Ambidextrous,Myopia,Bilingual,English,Low,Below,Standing,0,128,2,77,0,126,3,43,high,low,not very confident,30,,,yes,4 hours ago,7,6,,,
+Miranda,4,M,20,AA/Black,Some College,Part Time,Single,Right,Normal,Bilingual,English,Low,Average,Sitting,0,132,0,93,0,142,4,64,high,medium,somewhat confident,12,,,yes,6 hours ago,7,7,,,
+Miranda,5,F,66,Hispanic,Some College,Part Time,Single,Right,Hyperopia,Bilingual,Spanish,High,Average,Standing,0,78,2,58,0,94,15,51,medium,high,somewhat not confident,0,,,yes,12 hours ago,8,6,,,
+Gabriela Peña,1,F,24,Hispanic,Some College,Student,Single,Right,Normal,Monolingual,English,Moderate,Above,Standing,4,160,2,98,1,145,3,71,high,low,not confident,8,6 yrs,Intermediate,yes,6 hours,5,24,,,
+Gabriela Peña,2,F,55,Hispanic,Graduate,Part Time,Married,Right,Myopia,Bilingual,Spanish,Low,Above,Sitting,0,103,3,36,0,119,0,40,medium,high,very confident,0,,,yes,7 hours,5,6,,,
+Gabriela Peña,3,M,60,Hispanic,High School,Full Time,Married,Right,Myopia,Bilingual,Spanish,Low,Below,Standing,1,81,2,53,1,91,2,30,medium,medium,very confident,0,,,no,10+ hours,10,8,,,
+Gabriela Peña,4,M,23,Asian,Bachelors,Student/Part Time,Single,Right,Normal,Bilingual,English,High,Average,Standing,1,142,1,85,1,145,0,61,high,medium,very confident,5,,,no,3 hours,6,28,,,
+Gabriela Peña,5,F,18,Hispanic,Some College,Student,Single,Right,Normal,Bilingual,English,High,Average,Sitting,0,121,1,98,0,107,1,80,medium,high,very confident,0,,,yes,2 hours,7,30,,,
+Gabriela Peña,6,M,24,AA/Black/Hispanic,Bachelors,Student/Full Time,Single,Right,Myopia,Bilingual,English,High,Above,Sitting,1,152,0,79,0,124,0,63,high,low,not confident,6,,,yes,1 hours,8,32,,,
+Ruben,1,F,57,Hispanic,High School,Full Time,Married,Right,Hyperopia,Bilingual,English,Moderate,Above,Sitting,0,135,0,70,0,165,2,19,high,medium,somewhat confident,18,,,yes,3 months ago,5,14,,,
+Ruben,2,M,58,Hispanic,High School,Full Time,Married,Right,Normal,Bilingual,English,Moderate,Above,Sitting,0,133,0,85,0,150,1,140,high,medium,very confident,0,,,no,10 Hours ago,4,14,,,
+Ruben,3,F,24,Hispanic,Graduate,Full Time,Single,Right,Myopia,Bilingual,English,Low,Above,Sitting,0,155,0,107,0,166,0,73,high,medium,somewhat confident,20,,,no, 9 Days Ago,8,13,,,
+Ruben,4,M,30,AA/Black,Bachelors,Full Time,Single,Right,Normal,Monolingual,English,Moderate,Average,Sitting,0,130,0,113,0,148,2,96,high,,,5,,,yes,5 Hours ago,6,15,,,
+Ruben,5,F,18,Hispanic,High School,Part Time,Single,Right,Normal,Monolingual,English,Moderate,Average,Sitting,0,162,0,125,0,170,0,100,high,,,18,,,yes,8 Hours,8,14,,,
+Rafael,1,F,20,Asian,High School,Student,Single,Left,Myopia,Bilingual,English,Moderate,Average,Sitting,1,88,1,90,2,105,2,75,,,,,,,,,,,,No Music,
+Rafael,2,F,20,ME/NA,High School,Part Time,Single,Right,Normal,Bilingual,English,High,Average,Sitting,0,64,1,94,0,141,2,75,,,,,,,,,,,,Music,
+Rafael,3,M,21,Hispanic,High School,Full Time,Single,Right,Normal,Bilingual,Spanish,Moderate,Average,Sitting,0,57,2,60,0,80,0,59,,,,,,,,,,,,No Music,
+Rafael,4,M,21,Hispanic,High School,Student,Single,Left,Normal,Bilingual,Spanish,Moderate,Average,Standing,1,67,0,66,0,74,0,68,,,,,,,,,,,,Music,
+Rafael,5,M,27,Hispanic,Some College,Full Time,Single,Right,Normal,Bilingual,Spanish,Low,Below,Sitting,1,24,0,68,0,123,0,42,,,,,,,,,,,,No Music,
+Rafael,7,M,27,Hispanic,Some College,Full Time,Single,Right,Normal,Bilingual,Spanish,Low,Below,Sitting,1,24,0,68,0,123,2,42,,,,,,,,,,,,No Music,
+Rafael,8,F,30,Hispanic,Some College,Full Time,Divorced,Right,Normal,Bilingual,Spanish,Low,Above,Sitting,5,46,1,63,0,145,4,53,,,,,,,,,,,,No Music,
+Gabriel ,1,F,21,Asian,Some College,Unemployed,Single,Right,Myopia,Multilingual,Other,Moderate,Average,Sitting,4,100,2,112,2,145,8,85,high,high,very confident,0,,,no,7,,,,,
+Gabriel ,2,F,21,AA/Black,Some College,Student,Single,Right,Normal,Monolingual,English,Moderate,Average,Sitting,3,105,3,102,1,140,9,165,,,,1,,,no,8,,,,,
+Gabriel ,3,M,23,AA/Black,High School,Part Time,Single,Right,Normal,Bilingual,English,Moderate,Average,Sitting,1,100,6,130,1,148,10,165,medium,low,somewhat confident,2,,,no,7,,,,,
+Gabriel ,4,F,20,HL/SO,Some College,Student,Single,Left,Myopia,Bilingual,English,High,Above,Sitting,3,105,3,102,1,128,7,158,high,low,somewhat confident,0,,,no,7,,,,,
+Gabriel ,5,M,20,HL/SO,Some College,Full Time,Single,Right,Normal,Bilingual,English,Moderate,Average,Sitting,4,100,2,112,2,160,1,88,high,medium,somewhat not confident,1,,,no,5,,,,,
+Giancarlo,1,M,25,Hispanic,Some College,Part Time,Single,Right,Normal,Bilingual,English,Moderate,Average,Sitting,0,124,2,116,4,130,8,102,,,,,,,,,,,,,
+Giancarlo,2,F,22,Asian,Some College,Student,Single,Right,Myopia,Bilingual,English,High,Average,Sitting,0,160,1,164,0,150,1,132,,,,,,,,,,,,,
+Giancarlo,3,M,30,White,Bachelors,Part Time,Married,Left,Normal,Monolingual,English,Low,Above,Sitting,0,210,1,182,0,200,6,167,,,,,,,,,,,,,
+Giancarlo,4,F,29,Hispanic,Graduate,Full Time,Single,Right,Normal,Bilingual,English,Low,Above,Sitting,0,205,2,197,0,230,3,201,,,,,,,,,,,,,
+Giancarlo,5,M,28,Hispanic,Some College,Full Time,Single,Right,Hyperopia,Bilingual,English,High,Above,Standing,0,199,1,187,0,228,6,182,,,,,,,,,,,,,
+Ryan,1,M,20,Hispanic,Some College,Student,Single,Right,Hyperopia,Bilingual,English,Moderate,Average,Sitting,0,144,3,120,0,190,6,97,,,,,,,,,,,,,
+Ryan,2,M,21,Hispanic,Some College,Full Time,Single,Right,Normal,Bilingual,English,Moderate,Below,Sitting,4,122,4,101,3,155,5,70,,,,,,,,,,,,,
+Ryan,3,F,23,Hispanic,High School,Full Time,Single,Right,Hyperopia,Bilingual,English,Moderate,Average,Sitting,0,135,3,116,0,170,5,85,,,,,,,,,,,,,
+Ryan,4,F,29,Hispanic,Bachelors,Full Time,Married,Right,Normal,Bilingual,English,Moderate,Above,Sitting,0,156,2,130,0,202,4,105,,,,,,,,,,,,,
+Ryan ,5,M,30,Hispanic,Bachelors,Full Time,Married,Right,Hyperopia,Bilingual,English,Moderate,Average,Sitting,2,132,3,119,2,186,6,93,,,,,,,,,,,,,
+Awa ,1,F,21,AA/Black,Bachelors,Student,Single,Right,Normal,Multilingual,French,Moderate,Above,Sitting,2,103,0,71,0,137,0,67,high,high,confident,0,,,Yes,3 weeks,7,23,,,
+Awa,2,F,54,AA/Black,High School,Full Time,Divorced,Right,Myopia,Multilingual,French,High,Above,Sitting,2,87,3,60,2,100,5,40,medium,high,somewhat confident,0,,,No,7 hours,6,25,,,
+Awa,3,F,26,AA/Black,Some College,Unemployed,Divorced,Right,Normal,Multilingual,French,High,Above,Standing,1,125,0,86,0,130,2,71,medium,high,unsuresomewhat confident,0,,,Yes,6 weeks ago,8,30,,,
+Awa,4,F,19,AA/Black,High School,Student,Single,Left,Myopia,Multilingual,French,Moderate,Above,Sitting,3,103,1,90,0,110,6,65,high,high,confident,0,,,No,24 hours,6,16,,,
+Awa,5,F,27,AA/Black,Bachelors,Student,Divorced,Right,Normal,Multilingual,Arabic,Moderate,Above,Standing,1,130,0,100,0,134,4,88,high,high,confident,0,,,Yes,2 hours ,5,22,,,
+Lorena,1,M,32,Hispanic,Graduate,Full Time,Single,Right,Hyperopia,Bilingual,English,Moderate,Average,Sitting,0,132,0,83,1,144,2,45,,,,,,,Yes,1 hour ago,6,,Music,,
+Lorena,2,F,58,Hispanic,Graduate,Full Time,Married,Right,Hyperopia,Bilingual,English,Low,Average,Sitting,0,115,3,69,0,120,3,33,high,high,very confident,0,,,Yes,7 hours ago,7,,Music,,
+Lorena,3,M,37,Hispanic,Graduate,Full Time,Single,Right,Myopia,Bilingual,English,Low,Above,Standing,0,130,0,85,0,118,1,42,high,medium,somewhat not confident,20,,,No,6 hours ago,6,,No Music,,
+Lorena,4,M,33,AA/Black,Some College,Full Time,Single,Right,Normal,Monolingual,English,Low,Average,Standing,0,110,1,45,1,140,0,33,high,medium,confident,0,,,Yes,1 hour ago,6,,Music,,
+Lorena,5,M,59,Hispanic,Bachelors,Full Time,Married,Right,Hyperopia,Bilingual,English,Low,Above,Sitting,0,140,0,82,0,150,0,58,high,high,very confident,0,,,Yes,10 hours ago,8,,No Music,,
+Shavonne,1,F,36,AA/Black,Graduate,Full Time,Single,Right,Normal,Monolingual,English,High,Above,Sitting,0,98,0,85,0,120,0,55,High,,,0,,,,,7,,,,
+Shavonne,2,M,21,AA/Black,Some College,Student,Single,Right,Normal,Monolingual,English,Moderate,Above,Standing,0,180,2,100,0,150,0,90,high,,,40,,,,,5,,,,
+Shavonne,3,F,42,AA/Black,Bachelors,Full Time,Married,Right,Normal,Monolingual,English,Moderate,Average,Sitting,0,100,4,87,1,109,5,53,high,,,0,,,,,6,,,,
+Shavonne,4,F,28,AA/Black,Bachelors,Full Time,Single,Left,Normal,Monolingual,English,Moderate,Above,Standing,0,151,1,93,0,110,3,78,high,,,0,,,,,8,,,,
+Shavonne,5,M,48,AA/Black,Some College,Full Time,Married,Right,Normal,Monolingual,English,High,Average,Sitting,1,107,1,77,2,102,7,50,high,,,0,,,,,7,,,,
+Evelyn,1,M,20,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,5,196,0,81,0,120,2,56,medium,medium,very confident,7,,,no,3 weeks ago,6.5,,,,chewing gum
+Evelyn,2,F,21,Hispanic,Some College,Part Time,Single,Ambidextrous,Normal,Monolingual,English,Low,Above,Sitting,0,100,0,59,0,108,1,57,,,,12,10 years,Intermediate,yes,4 hours ago,8,9,,,no
+Evelyn,3,M,22,Hispanic,Some College,Student,Single,Right,Normal,Bilingual,English,Moderate,Above,Standing,0,104,1,88,0,100,4,92,high,medium,somewhat confident,15,,,yes,1 day ago,6,,,,chewing gum
+Evelyn,4,M,20,Hispanic,Some College,Part Time,Single,Ambidextrous,Myopia,Bilingual,English,Moderate,Above,Sitting,1,180,1,111,0,140,1,81,high,medium,very confident,2,4 months,Beginner,no,2 mins ago,6,21,,,chewing gum
+Evelyn,5,F,20,Asian,High School,Part Time,Single,Right,Normal,Monolingual,English,Moderate,Below,Sitting,1,72,1,60,1,81,1,44,,,,,,,,,,,,,no
+Evelyn,6,F,22,Hispanic,Some College,Part Time,Single,Right,Myopia,Bilingual,English,High,Above,Sitting,1,59,2,50,2,125,4,72,high,medium,somewhat confident,4,3 years,Beginner,yes,4 hours ago,7,29,,,no
+Evelyn,7,M,22,Hispanic,Some College,Part Time,Single,Right,Normal,Bilingual,Spanish,Moderate,Average,Sitting,1,114,4,75,1,125,2,41,high,medium,very confident,5,,,no,30 mins ago,4,18,,,chewing gum
+Evelyn,8,F,24,Asian,Some College,Part Time,Single,Right,Myopia,Multilingual,English,Moderate,Average,Sitting,4,111,1,75,1,72,1,58,high,high,very confident,2,,,no,1 month ago,8,27,,,no
+Evelyn,9,F,20,Hispanic,Some College,Full Time,Single,Left,Myopia,Bilingual,Spanish,Moderate,Average,Sitting,1,51,1,91,0,156,3,63,high,high,very confident,3,,,yes,12 hours ago,6,19,,,no
+Evelyn,10,F,20,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,0,103,0,91,1,115,2,60,high,medium,unsure,0,,,yes,12 hours ago,8,17,,,no 
+Evelyn,11,F,19,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,0,138,1,112,0,143,3,91,medium,medium,somewhat not confident,2,,,yes,years ago,3.5,26,,,no 
+Evelyn,12,M,21,Hispanic,Some College,Part Time,Single,Right,Normal,Bilingual,English,Moderate,Above,Sitting,1,165,0,100,0,137,3,77,high,medium,very confident,6,,,yes,4 hours ago,8,18,,,chewing gum
+Evelyn,13,F,19,Hispanic,Some College,Student,Single,Right,Myopia,Monolingual,English,High,Average,Standing,0,138,3,95,0,125,2,57,,,,2,5 years,Beginner,yes,1 week ago,6,29,,,no
+Evelyn,14,M,19,White,Some College,Student,Single,Right,Myopia,Multilingual,Other,Low,Above,Sitting,1,147,2,92,1,151,4,76,high,medium,very confident,1,,,yes,1 week ago,7.5,14,,,chewing gum
+Evelyn,15,F,20,Hispanic,Some College,Part Time,Single,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,0,104,4,100,0,103,10,61,medium,low,unsure,30,,,yes,3 hours ago,6,17,,,no 
+Evelyn,16,F,20,Hispanic,Some College,Part Time,Single,Right,Myopia,Bilingual,English,Low,Average,Sitting,1,128,4,190,0,120,4,100,medium,medium,very confident,2,,,yes,30 mins ago,7,25,,,chewing gum
+Evelyn,17,F,20,Hispanic,Some College,Part Time,Single,Right,Myopia,Bilingual,English,Low,Above,Sitting,0,40,0,82,1,41,0,60,high,medium,somewhat not confident,7.5,,,yes,3 hours ago,8,18,,,chewing gum
+Evelyn,18,F,20,Asian,Some College,Student,Single,Right,Normal,Bilingual,English,Moderate,Average,Sitting,0,120,2,85,1,115,2,60,medium,low,somewhat not confident,10,,,no,20 hours ago,6,21,,,chewing gum
+Evelyn,19,M,18,AA/Black,Some College,Student,Single,Right,Normal,Monolingual,English,Low,Above,Standing,0,150,1,105,2,148,2,84,,,,3,,,yes,10 hours ago,8,18,,,chewing gum
+Evelyn,20,M,21,Hispanic,Some College,Part Time,Single,Right,Normal,Bilingual,English,Low,Average,Sitting,0,100,4,87,3,7,5,51,medium,medium,very confident,1,,,no,few years ago,8,4,,,no
+Evelyn,21,M,19,Asian,Some College,Student,Single,Right,Myopia,Monolingual,English,Moderate,Average,Standing,3,125,1,100,2,128,3,60,,,,100,,,no,1 week ago,6,23,,,chewing gum
+Evelyn,22,M,18,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Low,Below,Standing,0,130,5,102,2,134,9,71,,,,,,,,,,,,,chewing gum
+Evelyn,23,F,18,Asian,Some College,Part Time,Single,Right,Myopia,Monolingual,English,High,Average,Standing,2,100,1,69,0,120,4,59,,,,7,5 years,Intermediate,yes,3 hours ago,7,29,,,no
+Evelyn,24,F,18,Hispanic,Some College,Part Time,Single,Right,Myopia,Monolingual,English,High,Below,Standing,7,89,1,70,1,102,1,54,,,,2,,,yes,2 hours ago,4,36,,,chewing gum
+Evelyn,25,M,22,Hispanic,Some College,Part Time,Single,Right,Normal,Bilingual,Spanish,Low,Average,Standing,1,124,0,84,0,23,6,69,high,high,very confident,2,,,yes,5 hours ago,7,13,,,chewing gum
+Evelyn,26,F,18,Asian,Some College,Student,Single,Right,Normal,Bilingual,English,Moderate,Average,Standing,0,146,7,97,0,133,1,78,high,low,unsure,,,,yes,years ago,6.5,25,,,chewing gum
+Evelyn,27,M,18,Hispanic,Some College,Student,Single,Right,Normal,Bilingual,English,Low,Average,Standing,1,117,1,90,2,110,1,73,high,low,unsure,30,,,yes,10 hours ago,7,10,,,no
+Evelyn,28,M,18,Hispanic,High School,Student,Single,Right,Myopia,Bilingual,English,Low,Above,Standing,2,128,2,96,0,132,1,79,high,medium,unsure,15,,,yes,5 mins ago,5,13,,,chewing gum
+Evelyn,29,F,19,Asian,Some College,Part Time,Single,Right,Myopia,Bilingual,English,Moderate,Average,Standing,1,124,5,83,2,110,7,54,high,high,very confident,,,,no,1 week ago,3,7,,,chewing gum
+Evelyn,30,M,19,Asian,Some College,Part Time,Married,Right,Normal,Bilingual,English,Low,Average,Standing,0,130,0,83,2,76,3,91,medium,medium,very confident,4.5,,,no,12 hours ago,7,1,,,chewing gum
+Evelyn,31,F,18,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Average,Standing,1,129,2,70,1,123,1,42,high,medium,very confident,,1 month,Beginner,no,10 mins ago,6.5,23,,,no
+Evelyn,32,F,18,Hispanic,Some College,Student,Single,Right,Normal,Bilingual,English,Low,Average,Standing,1,115,1,84,0,81,1,62,high,medium,unsure,,6 yrs,Beginner,no,3 hours ago,8,14,,,no
+Evelyn,33,F,21,Hispanic,Some College,Student,Single,Right,Hyperopia,Bilingual,English,Moderate,Average,Standing,1,83,0,57,0,100,1,44,high,medium,unsure,3,,,yes,2 hours ago,5,22,,,no
+Evelyn,34,M,18,AA/Black,Some College,Part Time,Single,Right,Normal,Monolingual,English,Low,Above,Standing,3,131,0,68,4,147,6,78,,,,5,10 yrs,Intermediate,yes,5 months ago,7,17,,,no
+Evelyn,35,M,18,Hispanic,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Above,Standing,0,108,3,63,0,97,3,36,medium,low,unsure,14,,,yes,9 hours ago,6,19,,,no
+RIcky,1,M,18,Asian,Some College,Student,Single,Left,Myopia,Monolingual,English,Moderate,Above,Sitting,4,112,5,59,0,126,11,64,,,,35,,,yes,7 hour ago,8,,,,
+Ricky ,2,F,21,Asian,Some College,Student,Single,Right,Myopia,Bilingual,English,Moderate,Average,Sitting,0,151,1,100,0,153,0,73,high,medium,very confident,24,3 yrs,Beginner,yes,7 days ago,2,,,,
+Ricky,3,M,20,Asian,High School,Student,Single,Right,Myopia,Bilingual,Chinese,Moderate,Below,Sitting,1,155,11,117,1,162,11,81,medium,medium,somewhat confident,28,5 yrs,Intermediate,no,2 days ago ,4,,,,
+Ricky ,4,M,18,Asian,Some College,Student,Single,Right,Normal,Bilingual,Other,Moderate,Average,Sitting,0,145,0,112,0,159,4,76,,,,30,,,yes,3 days ago ,7,,,,
+Ricky,5,M,20,Asian,High School,Part Time,Single,Right,Myopia,Monolingual,English,Moderate,Average,Sitting,0,135,1,89,0,138,0,60,,,,35,,,no,24 hour ,8.5,,,,
